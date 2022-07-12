@@ -6,4 +6,5 @@ A clean and nice web portfolio for designer or developer. That includes almost e
 Don't forget to join the channel for more videos like this.
 [Bedimcode](https://www.youtube.com/c/Bedimcode)
 
-![preview img](/preview.png)
+
+![about](https://user-images.githubusercontent.com/106463503/178526396-2b74de37-a128-42e6-8294-2e73408ee8b3.jpg)
